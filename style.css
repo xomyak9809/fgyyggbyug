@@ -1,0 +1,6 @@
+body {
+    font-family: sans-serif;background-color: black;
+}
+p{color: violet}
+.link-text{color: white}
+a{background-color: blueviolet;color: black;border-radius: 5px ;}
